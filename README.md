@@ -1,6 +1,6 @@
 ###### in case it isn't obvious, this is purely for the memes
 
-# breaking news: one year of J has been accomplished!!
+# Daily j's will start again in January
 
 # J Archive
 Just a simple archive for j.txt as I have no other use for this test repo
